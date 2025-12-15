@@ -25,7 +25,7 @@ This project focuses on analyzing operational and user engagement metrics using 
 
 ## Project Report
 📄 **Detailed analysis available in the PDF:**  
-`Operational_Analytics_Investigating_Improving_Business_Metrics.pdf`
+`Operational Analytics.pdf`
 
 ## Author
 **Dhanush Hegde**
